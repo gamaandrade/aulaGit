@@ -1,3 +1,3 @@
 #include lcdControl.h
 
-teste
+testado
