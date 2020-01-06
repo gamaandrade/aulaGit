@@ -1,3 +1,3 @@
 # Aula de git
 
-Tá difícil aprender esse negócio com o VS Code
+Finalmente aprendi esse negócio com o VS Code!!! :)
